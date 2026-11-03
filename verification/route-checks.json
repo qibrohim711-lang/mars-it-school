@@ -1,0 +1,200 @@
+[
+  {
+    "heading": "AI yordamida kelajakni yaratishni o'rganish\n— MARS IT School, Toshkentdagi bolalar va o‘smirlar uchun dasturlash maktabi",
+    "main": true,
+    "overflow": false,
+    "path": "/"
+  },
+  {
+    "heading": "Biz Toshkent bolalariga texnologiya yaratishni, uning qanday ishlashini tushunishni va bilimni keyingilarga topshirishni o‘rgatamiz.",
+    "main": true,
+    "overflow": false,
+    "path": "/about"
+  },
+  {
+    "heading": "Tarix va missiya",
+    "main": true,
+    "overflow": false,
+    "path": "/about/history"
+  },
+  {
+    "heading": "Jamoa",
+    "main": true,
+    "overflow": false,
+    "path": "/about/team"
+  },
+  {
+    "heading": "Bepul maslahat",
+    "main": true,
+    "overflow": false,
+    "path": "/apply"
+  },
+  {
+    "heading": "Texnologiya va ta’lim",
+    "main": true,
+    "overflow": false,
+    "path": "/blog"
+  },
+  {
+    "heading": "Buyuk Ipak yo‘lidagi bolalar uchun IT maktab",
+    "main": true,
+    "overflow": false,
+    "path": "/buyuk-ipak"
+  },
+  {
+    "heading": "MARS IT School’da ishlash",
+    "main": true,
+    "overflow": false,
+    "path": "/careers"
+  },
+  {
+    "heading": "Chilonzordagi bolalar uchun IT maktab",
+    "main": true,
+    "overflow": false,
+    "path": "/chilonzor"
+  },
+  {
+    "heading": "MARS\nIT School\nkontaktlari",
+    "main": true,
+    "overflow": false,
+    "path": "/contacts"
+  },
+  {
+    "heading": "Qaysi yo‘nalishni tanlash kerak?",
+    "main": true,
+    "overflow": false,
+    "path": "/course-finder"
+  },
+  {
+    "heading": "Kurslar\nMARS IT maktabi",
+    "main": true,
+    "overflow": false,
+    "path": "/courses"
+  },
+  {
+    "heading": "AI BOLALAR",
+    "main": true,
+    "overflow": false,
+    "path": "/courses/ai-kids"
+  },
+  {
+    "heading": "Uchuvchi",
+    "main": true,
+    "overflow": false,
+    "path": "/courses/it-development"
+  },
+  {
+    "heading": "Har bir darsdan keyin ko‘rsatadigan natija bor",
+    "main": true,
+    "overflow": false,
+    "path": "/courses/methodology"
+  },
+  {
+    "heading": "Learning to create the future with AI\n— MARS IT School, a programming school for kids and teens in Tashkent",
+    "main": true,
+    "overflow": false,
+    "path": "/en"
+  },
+  {
+    "heading": "Minordagi bolalar uchun IT maktab",
+    "main": true,
+    "overflow": false,
+    "path": "/minor"
+  },
+  {
+    "heading": "MARS IT maktabi hayoti",
+    "main": true,
+    "overflow": false,
+    "path": "/news"
+  },
+  {
+    "heading": "Yangilik topilmadi",
+    "main": true,
+    "overflow": false,
+    "path": "/news/ai-for-kids-12-14"
+  },
+  {
+    "heading": "Yangilik topilmadi",
+    "main": true,
+    "overflow": false,
+    "path": "/news/ai-work-future"
+  },
+  {
+    "heading": "O'zbekiston FIRST Global Challenge 2026 chempioni",
+    "main": true,
+    "overflow": false,
+    "path": "/news/first-global-challenge-2026-uzbekistan"
+  },
+  {
+    "heading": "TA‘LIM",
+    "main": true,
+    "overflow": false,
+    "path": "/news/parental-control-phone"
+  },
+  {
+    "heading": "Yangilik topilmadi",
+    "main": true,
+    "overflow": false,
+    "path": "/news/rebenok-v-telefone-chto-delat"
+  },
+  {
+    "heading": "Yangilik topilmadi",
+    "main": true,
+    "overflow": false,
+    "path": "/news/roblox-harmful-or-helpful"
+  },
+  {
+    "heading": "Yangilik topilmadi",
+    "main": true,
+    "overflow": false,
+    "path": "/news/roblox-studio-first-game"
+  },
+  {
+    "heading": "Yangilik topilmadi",
+    "main": true,
+    "overflow": false,
+    "path": "/news/scratch-python-roblox"
+  },
+  {
+    "heading": "Yangilik topilmadi",
+    "main": true,
+    "overflow": false,
+    "path": "/news/vibe-coding-explained"
+  },
+  {
+    "heading": "To‘lov va qaytarish",
+    "main": true,
+    "overflow": false,
+    "path": "/payment"
+  },
+  {
+    "heading": "Учим создавать будущее с помощью AI\n— MARS IT School, школа программирования для детей и подростков в Ташкенте",
+    "main": true,
+    "overflow": false,
+    "path": "/ru"
+  },
+  {
+    "heading": "Sergelidagi bolalar uchun IT maktab",
+    "main": true,
+    "overflow": false,
+    "path": "/sergeli"
+  },
+  {
+    "heading": "SPACE —\no‘ynab o‘rgan",
+    "main": true,
+    "overflow": false,
+    "path": "/space"
+  },
+  {
+    "heading": "Tinchlikdagi bolalar uchun IT maktab",
+    "main": true,
+    "overflow": false,
+    "path": "/tinchlik"
+  },
+  {
+    "heading": "Yunusoboddagi bolalar uchun IT maktab",
+    "main": true,
+    "overflow": false,
+    "path": "/yunusobod"
+  }
+]

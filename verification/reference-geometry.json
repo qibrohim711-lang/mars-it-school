@@ -1,0 +1,354 @@
+{
+  "375": {
+    "height": 812,
+    "hero": {
+      "bottom": 251.171875,
+      "height": 134.375,
+      "left": 14.40625,
+      "right": 345.59375,
+      "top": 116.796875,
+      "width": 331.1875,
+      "x": 14.40625,
+      "y": 116.796875
+    },
+    "sections": [
+      {
+        "height": 911.703125,
+        "key": "home.hero"
+      },
+      {
+        "height": 1307.34375,
+        "key": "home.advantages"
+      },
+      {
+        "height": 667.046875,
+        "key": "home.space"
+      },
+      {
+        "height": 864.171875,
+        "key": "home.marshub"
+      },
+      {
+        "height": 725.046875,
+        "key": "home.news"
+      },
+      {
+        "height": 807.765625,
+        "key": "home.reviews"
+      },
+      {
+        "height": 793.171875,
+        "key": "home.faq"
+      }
+    ],
+    "width": 375
+  },
+  "390": {
+    "height": 844,
+    "hero": {
+      "bottom": 218.78125,
+      "height": 100.78125,
+      "left": 15,
+      "right": 360,
+      "top": 118,
+      "width": 345,
+      "x": 15,
+      "y": 118
+    },
+    "sections": [
+      {
+        "height": 869.03125,
+        "key": "home.hero"
+      },
+      {
+        "height": 1220.46875,
+        "key": "home.advantages"
+      },
+      {
+        "height": 677.5625,
+        "key": "home.space"
+      },
+      {
+        "height": 811.390625,
+        "key": "home.marshub"
+      },
+      {
+        "height": 735.593505859375,
+        "key": "home.news"
+      },
+      {
+        "height": 826.484375,
+        "key": "home.reviews"
+      },
+      {
+        "height": 794.84375,
+        "key": "home.faq"
+      }
+    ],
+    "width": 390
+  },
+  "430": {
+    "height": 932,
+    "hero": {
+      "bottom": 221.96875,
+      "height": 100.78125,
+      "left": 16.59375,
+      "right": 398.390625,
+      "top": 121.1875,
+      "width": 381.796875,
+      "x": 16.59375,
+      "y": 121.1875
+    },
+    "sections": [
+      {
+        "height": 885.3125,
+        "key": "home.hero"
+      },
+      {
+        "height": 1177.03125,
+        "key": "home.advantages"
+      },
+      {
+        "height": 705.34375,
+        "key": "home.space"
+      },
+      {
+        "height": 769.640625,
+        "key": "home.marshub"
+      },
+      {
+        "height": 732.828125,
+        "key": "home.news"
+      },
+      {
+        "height": 876.375,
+        "key": "home.reviews"
+      },
+      {
+        "height": 777.1875,
+        "key": "home.faq"
+      }
+    ],
+    "width": 430
+  },
+  "768": {
+    "height": 1024,
+    "hero": {
+      "bottom": 215.421875,
+      "height": 67.1875,
+      "left": 30.125,
+      "right": 722.875,
+      "top": 148.234375,
+      "width": 692.75,
+      "x": 30.125,
+      "y": 148.234375
+    },
+    "sections": [
+      {
+        "height": 936.5625,
+        "key": "home.hero"
+      },
+      {
+        "height": 1117.640625,
+        "key": "home.advantages"
+      },
+      {
+        "height": 898.0625,
+        "key": "home.space"
+      },
+      {
+        "height": 631.3125,
+        "key": "home.marshub"
+      },
+      {
+        "height": 676.328125,
+        "key": "home.news"
+      },
+      {
+        "height": 917.59375,
+        "key": "home.reviews"
+      },
+      {
+        "height": 787.625,
+        "key": "home.faq"
+      }
+    ],
+    "width": 768
+  },
+  "1024": {
+    "height": 768,
+    "hero": {
+      "bottom": 260.359375,
+      "height": 161.25,
+      "left": 90.8125,
+      "right": 497.625,
+      "top": 99.109375,
+      "width": 406.8125,
+      "x": 90.8125,
+      "y": 99.109375
+    },
+    "sections": [
+      {
+        "height": 544,
+        "key": "home.hero"
+      },
+      {
+        "height": 1095.625,
+        "key": "home.advantages"
+      },
+      {
+        "height": 841.015625,
+        "key": "home.space"
+      },
+      {
+        "height": 529.328125,
+        "key": "home.marshub"
+      },
+      {
+        "height": 702.15625,
+        "key": "home.news"
+      },
+      {
+        "height": 867.077880859375,
+        "key": "home.reviews"
+      },
+      {
+        "height": 789.5,
+        "key": "home.faq"
+      }
+    ],
+    "width": 1024
+  },
+  "1366": {
+    "height": 768,
+    "hero": {
+      "bottom": 361,
+      "height": 215.0625,
+      "left": 121.59375,
+      "right": 666.3125,
+      "top": 145.9375,
+      "width": 544.71875,
+      "x": 121.59375,
+      "y": 145.9375
+    },
+    "sections": [
+      {
+        "height": 675.90625,
+        "key": "home.hero"
+      },
+      {
+        "height": 1210.15625,
+        "key": "home.advantages"
+      },
+      {
+        "height": 1002.90625,
+        "key": "home.space"
+      },
+      {
+        "height": 516.078125,
+        "key": "home.marshub"
+      },
+      {
+        "height": 771.171630859375,
+        "key": "home.news"
+      },
+      {
+        "height": 953.375,
+        "key": "home.reviews"
+      },
+      {
+        "height": 822.40625,
+        "key": "home.faq"
+      }
+    ],
+    "width": 1366
+  },
+  "1440": {
+    "height": 900,
+    "hero": {
+      "bottom": 384.390625,
+      "height": 226.75,
+      "left": 128.25,
+      "right": 702.8125,
+      "top": 157.640625,
+      "width": 574.5625,
+      "x": 128.25,
+      "y": 157.640625
+    },
+    "sections": [
+      {
+        "height": 712.890625,
+        "key": "home.hero"
+      },
+      {
+        "height": 1261.25,
+        "key": "home.advantages"
+      },
+      {
+        "height": 1046.921875,
+        "key": "home.space"
+      },
+      {
+        "height": 529.6875,
+        "key": "home.marshub"
+      },
+      {
+        "height": 786.859130859375,
+        "key": "home.news"
+      },
+      {
+        "height": 973.53125,
+        "key": "home.reviews"
+      },
+      {
+        "height": 835.296875,
+        "key": "home.faq"
+      }
+    ],
+    "width": 1440
+  },
+  "1920": {
+    "height": 1080,
+    "hero": {
+      "bottom": 513.640625,
+      "height": 302.375,
+      "left": 171.453125,
+      "right": 939.546875,
+      "top": 211.265625,
+      "width": 768.09375,
+      "x": 171.453125,
+      "y": 211.265625
+    },
+    "sections": [
+      {
+        "height": 952.765625,
+        "key": "home.hero"
+      },
+      {
+        "height": 1681.78125,
+        "key": "home.advantages"
+      },
+      {
+        "height": 1393.359375,
+        "key": "home.space"
+      },
+      {
+        "height": 704.953125,
+        "key": "home.marshub"
+      },
+      {
+        "height": 1049.5,
+        "key": "home.news"
+      },
+      {
+        "height": 1298.40625,
+        "key": "home.reviews"
+      },
+      {
+        "height": 1111.59375,
+        "key": "home.faq"
+      }
+    ],
+    "width": 1920
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "width": 375,
+    "height": 812,
+    "meanChannelDifference": 20.41,
+    "pixelsDifferentOver20Percent": 16.52,
+    "headingWidthDifference": 0,
+    "headingHeightDifference": 0,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "meanChannelDifference": 18.68,
+    "pixelsDifferentOver20Percent": 14.97,
+    "headingWidthDifference": 0,
+    "headingHeightDifference": 0,
+    "overflow": false
+  },
+  {
+    "width": 430,
+    "height": 932,
+    "meanChannelDifference": 15.38,
+    "pixelsDifferentOver20Percent": 12.36,
+    "headingWidthDifference": 0,
+    "headingHeightDifference": 0,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "meanChannelDifference": 7.19,
+    "pixelsDifferentOver20Percent": 5.68,
+    "headingWidthDifference": 0,
+    "headingHeightDifference": 0,
+    "overflow": false
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "meanChannelDifference": 8.41,
+    "pixelsDifferentOver20Percent": 6.31,
+    "headingWidthDifference": 0,
+    "headingHeightDifference": 0,
+    "overflow": false
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "meanChannelDifference": 6.53,
+    "pixelsDifferentOver20Percent": 5.04,
+    "headingWidthDifference": 0,
+    "headingHeightDifference": 0,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "height": 900,
+    "meanChannelDifference": 7.37,
+    "pixelsDifferentOver20Percent": 5.25,
+    "headingWidthDifference": 0,
+    "headingHeightDifference": 0,
+    "overflow": false
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "meanChannelDifference": 6.3,
+    "pixelsDifferentOver20Percent": 4.54,
+    "headingWidthDifference": 0,
+    "headingHeightDifference": 0,
+    "overflow": false
+  }
+]
